@@ -2,5 +2,5 @@
     <tabTrigger>param</tabTrigger>
     <scope>source.modern-fortran</scope>
     <description>Parameter</description>
-	<content><![CDATA[${1:real}, parameter :: ${2:x}]]></content>
+    <content><![CDATA[${1:real}, parameter :: ${2:x}]]></content>
 </snippet>

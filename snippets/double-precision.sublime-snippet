@@ -2,5 +2,5 @@
     <tabTrigger>doub</tabTrigger>
     <scope>source.modern-fortran</scope>
     <description>double precision</description>
-	<content><![CDATA[double precision]]></content>
+    <content><![CDATA[double precision]]></content>
 </snippet>

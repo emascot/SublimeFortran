@@ -3,9 +3,9 @@
     <scope>source.modern-fortran</scope>
     <description>Do Loop</description>
 
-	<content><![CDATA[
+    <content><![CDATA[
 do ${1:i}=${2:1,n}
-	$0
+    $0
 enddo
 ]]></content>
 </snippet>

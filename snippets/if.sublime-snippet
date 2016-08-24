@@ -4,6 +4,6 @@
     <description>If Condition</description>
     <content><![CDATA[
 if (${1:$SELECTION}) then
-	$0
+    $0
 endif]]></content>
 </snippet>
